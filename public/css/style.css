@@ -1,9 +1,6 @@
-.header {
-    background-color: green;
-}
-
-.footer {
-    background-color: blue;
+.header-footer {
+    background-color: #0b1924;
+    color: #f4fbff;
 }
 
 hlml body {
