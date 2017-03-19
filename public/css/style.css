@@ -1,0 +1,16 @@
+.header {
+    background-color: green;
+}
+
+.footer {
+    background-color: blue;
+}
+
+hlml body {
+    height: 100%;
+}
+
+.body {
+    min-height: 100%;
+}
+
